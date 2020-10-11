@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KetSech/static/css/main.523f09c5.chunk.css",
+    "main.js": "/KetSech/static/js/main.bd6ab85c.chunk.js",
+    "main.js.map": "/KetSech/static/js/main.bd6ab85c.chunk.js.map",
+    "runtime-main.js": "/KetSech/static/js/runtime-main.572ae08d.js",
+    "runtime-main.js.map": "/KetSech/static/js/runtime-main.572ae08d.js.map",
+    "static/js/2.139719c5.chunk.js": "/KetSech/static/js/2.139719c5.chunk.js",
+    "static/js/2.139719c5.chunk.js.map": "/KetSech/static/js/2.139719c5.chunk.js.map",
+    "index.html": "/KetSech/index.html",
+    "precache-manifest.9eb37f51136946a9ed3189ac4efc4434.js": "/KetSech/precache-manifest.9eb37f51136946a9ed3189ac4efc4434.js",
+    "service-worker.js": "/KetSech/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/KetSech/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.139719c5.chunk.js.LICENSE.txt": "/KetSech/static/js/2.139719c5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/KetSech/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.572ae08d.js",
+    "static/js/2.139719c5.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.bd6ab85c.chunk.js"
+  ]
+}
